@@ -1,0 +1,47 @@
+[
+{
+    "Name" : "Ponczek",
+    "Stan siura" : "Chlop",
+    "Liceum" : "Staszic",
+    "Uczelnia" : "Politechnika",
+    "Discord" : "Krucjata",
+    "@CS" : "Bede tam",
+    "Pochodzenie" : "Bialoleka"
+},
+{
+    "Name" : "Cychu",
+    "Stan siura" : "Chlop",
+    "Liceum" : "Konopczynski",
+    "Uczelnia" : "SGGW",
+    "Discord" : "Krucjata",
+    "@CS" : "Bede tam",
+    "Pochodzenie" : "Targowek"
+},
+{
+    "Name" : "Alicja",
+    "Stan siura" : "Baba",
+    "Liceum" : "Konopczynski",
+    "Uczelnia" : "WUM",
+    "Discord" : "Krucjata",
+    "@CS" : "Bede tam",
+    "Pochodzenie" : "Srodmiescie"
+},
+{
+    "Name" : "Binki",
+    "Stan siura" : "Chlop",
+    "Liceum" : "Czarniecki",
+    "Uczelnia" : "-",
+    "Discord" : "WPT/Czarniecki/Krucjata",
+    "@CS" : "Spierdalaj",
+    "Pochodzenie" : "Marki"
+},
+{
+    "Name" : "Jurek",
+    "Stan siura" : "Chlop",
+    "Liceum" : "Czarniecki",
+    "Uczelnia" : "uWu",
+    "Discord" : "Czarniecki",
+    "@CS" : "Bede tam",
+    "Pochodzenie" : "Chotomow"
+}
+]

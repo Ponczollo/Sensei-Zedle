@@ -190,8 +190,8 @@ class Sensei_Zedle():
         self.current_guess = 0
 
     def start_game(self):
-        self.get_categories('data/categories.json')
-        self.get_data('data/sensei_ze.json')
+        self.get_categories('src/data/categories.json')
+        self.get_data('src/data/sensei_ze.json')
         self.create_gui()
         self.restart_game()
         
